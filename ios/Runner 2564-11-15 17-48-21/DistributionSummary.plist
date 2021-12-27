@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkstockpro.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>9</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4EE682F47E648F667E17611179A0CDCF048D3A95</string>
+				<key>dateExpires</key>
+				<string>8/9/2565 BE</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4EE682F47E648F667E17611179A0CDCF048D3A95</string>
+						<key>dateExpires</key>
+						<string>8/9/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>App.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>BTQ9Z9J8RM</string>
+						<key>name</key>
+						<string>AOI NA DARA</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4EE682F47E648F667E17611179A0CDCF048D3A95</string>
+						<key>dateExpires</key>
+						<string>8/9/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FBLPromises.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>BTQ9Z9J8RM</string>
+						<key>name</key>
+						<string>AOI NA DARA</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>2.0.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4EE682F47E648F667E17611179A0CDCF048D3A95</string>
+						<key>dateExpires</key>
+						<string>8/9/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FirebaseCore.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>BTQ9Z9J8RM</string>
+						<key>name</key>
+						<string>AOI NA DARA</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>8.6.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4EE682F47E648F667E17611179A0CDCF048D3A95</string>
+						<key>dateExpires</key>
+						<string>8/9/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FirebaseCoreDiagnostics.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>BTQ9Z9J8RM</string>
+						<key>name</key>
+						<string>AOI NA DARA</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>8.6.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4EE682F47E648F667E17611179A0CDCF048D3A95</string>
+						<key>dateExpires</key>
+						<string>8/9/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FirebaseInstallations.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>BTQ9Z9J8RM</string>
+						<key>name</key>
+						<string>AOI NA DARA</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>8.6.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4EE682F47E648F667E17611179A0CDCF048D3A95</string>
+						<key>dateExpires</key>
+						<string>8/9/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>BTQ9Z9J8RM</string>
+						<key>name</key>
+						<string>AOI NA DARA</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4EE682F47E648F667E17611179A0CDCF048D3A95</string>
+						<key>dateExpires</key>
+						<string>8/9/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleDataTransport.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>BTQ9Z9J8RM</string>
+						<key>name</key>
+						<string>AOI NA DARA</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>9.1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4EE682F47E648F667E17611179A0CDCF048D3A95</string>
+						<key>dateExpires</key>
+						<string>8/9/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleUtilities.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>BTQ9Z9J8RM</string>
+						<key>name</key>
+						<string>AOI NA DARA</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>7.5.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>30.239</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4EE682F47E648F667E17611179A0CDCF048D3A95</string>
+						<key>dateExpires</key>
+						<string>8/9/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>PDFNet.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>BTQ9Z9J8RM</string>
+						<key>name</key>
+						<string>AOI NA DARA</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>6.10.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4EE682F47E648F667E17611179A0CDCF048D3A95</string>
+						<key>dateExpires</key>
+						<string>8/9/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Tools.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>BTQ9Z9J8RM</string>
+						<key>name</key>
+						<string>AOI NA DARA</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4EE682F47E648F667E17611179A0CDCF048D3A95</string>
+						<key>dateExpires</key>
+						<string>8/9/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>nanopb.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>BTQ9Z9J8RM</string>
+						<key>name</key>
+						<string>AOI NA DARA</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>2.30908.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4EE682F47E648F667E17611179A0CDCF048D3A95</string>
+						<key>dateExpires</key>
+						<string>8/9/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>package_info_plus.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>BTQ9Z9J8RM</string>
+						<key>name</key>
+						<string>AOI NA DARA</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.4.5</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4EE682F47E648F667E17611179A0CDCF048D3A95</string>
+						<key>dateExpires</key>
+						<string>8/9/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>shared_preferences.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>BTQ9Z9J8RM</string>
+						<key>name</key>
+						<string>AOI NA DARA</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.0.1</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>BTQ9Z9J8RM.com.jkcrsly.checkstockpro</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>BTQ9Z9J8RM</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>BTQ9Z9J8RM.com.jkcrsly.checkstockpro</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Runner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>0b0873c7-c263-42ea-bbc2-3c340d95148a</string>
+				<key>dateExpires</key>
+				<string>8/9/2565 BE</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.jkcrsly.checkstockpro</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>BTQ9Z9J8RM</string>
+				<key>name</key>
+				<string>AOI NA DARA</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>0.0.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

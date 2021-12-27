@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/Pods/Firebase/CoreOnly/Sources/module.modulemap \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h

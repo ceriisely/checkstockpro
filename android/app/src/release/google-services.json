@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97114588293",
+    "project_id": "checkstockpro-b8dbd",
+    "storage_bucket": "checkstockpro-b8dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97114588293:android:3c16b0946dc081ca5b95ec",
+        "android_client_info": {
+          "package_name": "com.quadelsolution.qsim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97114588293-r61v8jhk622kh7j0fdp38i965horls1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPale-GVUbRc3r-KUJB9OMU-gXyuhEi2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97114588293-r61v8jhk622kh7j0fdp38i965horls1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

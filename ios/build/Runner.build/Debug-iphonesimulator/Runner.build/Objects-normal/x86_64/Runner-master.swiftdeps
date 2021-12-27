@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "c798c0c053065ac0f7ed417dd3e8cd86"
+build_time: [1633534748, 292978000]
+inputs:
+  "/Users/cerisely/Documents/project/external/checkstockpro/app/checkstockpro/ios/Runner/AppDelegate.swift": [1633534199, 360591080]
